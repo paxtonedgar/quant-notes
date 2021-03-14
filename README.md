@@ -1,4 +1,11 @@
-# Preparations for DS/AI/ML/Quant
+# DSA email break down
+
+1. Computer Science (combining data, orders of operations, analysis of algorithms, and using regular expressions)
+
+2. Mathematical Foundations (calculus and linear algebra)
+
+3. Statistics (descriptive, probability, hypothesis testing, correlations and regression)
+
 
 ## What is this
 
