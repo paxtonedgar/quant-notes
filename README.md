@@ -114,6 +114,9 @@ The bare minimum of coding concepts you need to know well.
 
 Just to spell things out
 
+Links in use: 
+https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+
 - Derivatives
     - Product rule, chain rule, power rule, L'Hospital's rule,
     - Partial and total derivative
