@@ -49,6 +49,7 @@ Coding:
 Math:
 
 - Calculus and Linear Algebra: undergrad class would be the best, refresher notes from CS229 [link](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+[link](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/e/3522/files/2017/05/Calculus-Review-1cnmf49.pdf)
 - Probability: Harvard Stats110 [link](https://projects.iq.harvard.edu/stat110/home); [book](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=5W11QQ7WW4DFE0Q89N7V) from the same professor
 - Statistics: Shaum's Outline [link](https://www.amazon.com/Schaums-Outline-Statistics-5th-Outlines/dp/0071822526)
 - Numerical Methods and Optimization: these are two different topics really, college courses are probably the best bet. I have yet to find good online courses for them. But don't worry, most interviews won't really touch on them.
